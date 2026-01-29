@@ -14,6 +14,10 @@ A brand that brings the royal tradition of Indian chai to the world. Our heritag
 
 [View Live Site](https://chai-culture-gilt.vercel.app/)
 
+## GitHub Link
+
+https://github.com/GuduruVinay/Chai-Culture
+
 ## Features
 
 - Fully responsive mobile design
