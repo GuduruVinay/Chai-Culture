@@ -50,7 +50,7 @@ body::before {
 /* Logo and header section */
 .logo-section {
   text-align: center;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
   animation: fadeInDown 1s ease-out;
 }
 
